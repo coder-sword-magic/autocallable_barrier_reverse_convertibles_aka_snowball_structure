@@ -1,5 +1,5 @@
 # Autocallable Barrier Reverse Convertibles
-calculate value and greeks of autocallable barrier reverse convertibles (aka snowball structure contract) using monte carlo implementing by vectorized functions.
+Pricing autocallable barrier reverse convertibles (aka snowball structure contract) using monte carlo implementing by vectorized functions with greeks calculation.
 
 ## The product / contract info:
 * Start Date: 2022-08-31
