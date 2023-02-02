@@ -1,6 +1,9 @@
 # Autocallable Barrier Reverse Convertibles
 Pricing autocallable barrier reverse convertibles (aka snowball structure contract) using monte carlo implementing by vectorized functions with greeks calculation.
 
+ [![Open in Colab][Colab Badge]][Code Notebook]
+
+
 ## The product / contract info:
 * Start Date: 2022-08-31
 * End Date: 2023-08-31
@@ -29,4 +32,7 @@ Pricing autocallable barrier reverse convertibles (aka snowball structure contra
 - - -
 
 If you have any question about this repo, do not hesitate to contact me or open an issue on GitHub.
+
+[Colab Badge]:          https://colab.research.google.com/assets/colab-badge.svg
+[Code Notebook]:      https://colab.research.google.com/github/leonjmhu/autocallable_barrier_reverse_convertibles_aka_snowball_structure/blob/master/monte_carlo_for_ABRC.ipynb
 
